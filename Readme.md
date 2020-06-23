@@ -1,4 +1,4 @@
-# JustCode - React Native Zero to Hero Tutorial 6
+# JustCode - React Native Zero to Hero Tutorial 7
 Hi! Welcome to JustCode React Native Zero to Hero Tutorial 6 Github page. To run the application in this Github page you need to:
 
 1. Have a valid [Oxford Dictionaries API](https://developer.oxforddictionaries.com) account and create the application ID and Key. If you don't have, please sign up one at [https://developer.oxforddictionaries.com](https://developer.oxforddictionaries.com/)
